@@ -1,6 +1,6 @@
 require("aashan.set")
-require("aashan.remap")
 require("aashan.packer")
+require("aashan.remap")
 
 
 local augroup = vim.api.nvim_create_augroup
